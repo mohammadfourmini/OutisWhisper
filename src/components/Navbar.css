@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 60px;
+}
+
+nav h2 {
+  color: white;
+  font-size: 28px;
+}

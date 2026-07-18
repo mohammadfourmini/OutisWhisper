@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vs/
+git rm -r --cached .vs
+git add .
+git commit -m "Remove Visual Studio files"
+git push
